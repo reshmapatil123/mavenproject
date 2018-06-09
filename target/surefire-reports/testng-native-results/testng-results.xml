@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="42017" started-at="2018-04-08T03:45:31Z" finished-at="2018-04-08T03:46:13Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="42017" started-at="2018-04-08T03:45:31Z" finished-at="2018-04-08T03:46:13Z">
+      <class name="com.selenium.mavenproject.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selenium.mavenproject.NewTest@3dd3bcd]" name="beforeTest" is-config="true" duration-ms="13367" started-at="2018-04-08T03:45:31Z" finished-at="2018-04-08T03:45:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:1, instance:com.selenium.mavenproject.NewTest@3dd3bcd]" name="f" duration-ms="3353" started-at="2018-04-08T03:45:44Z" finished-at="2018-04-08T03:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="addtocard()[pri:2, instance:com.selenium.mavenproject.NewTest@3dd3bcd]" name="addtocard" duration-ms="15615" started-at="2018-04-08T03:45:48Z" finished-at="2018-04-08T03:46:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocard -->
+        <test-method status="PASS" signature="checkout()[pri:3, instance:com.selenium.mavenproject.NewTest@3dd3bcd]" name="checkout" duration-ms="2473" started-at="2018-04-08T03:46:03Z" finished-at="2018-04-08T03:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method status="PASS" signature="signIn()[pri:4, instance:com.selenium.mavenproject.NewTest@3dd3bcd]" name="signIn" duration-ms="1585" started-at="2018-04-08T03:46:06Z" finished-at="2018-04-08T03:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="address()[pri:5, instance:com.selenium.mavenproject.NewTest@3dd3bcd]" name="address" duration-ms="1680" started-at="2018-04-08T03:46:07Z" finished-at="2018-04-08T03:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- address -->
+        <test-method status="PASS" signature="shipping()[pri:6, instance:com.selenium.mavenproject.NewTest@3dd3bcd]" name="shipping" duration-ms="1445" started-at="2018-04-08T03:46:09Z" finished-at="2018-04-08T03:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shipping -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.selenium.mavenproject.NewTest@3dd3bcd]" name="afterTest" is-config="true" duration-ms="2382" started-at="2018-04-08T03:46:11Z" finished-at="2018-04-08T03:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.selenium.mavenproject.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

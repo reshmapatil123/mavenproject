@@ -1,0 +1,7 @@
+2018-05-27 16:41:11 FATAL selenium.mavenproject.Logging:24 - max
+2018-05-27 16:48:36 INFO selenium.mavenproject.Logging:18 - opened browser
+2018-05-27 16:48:43 INFO selenium.mavenproject.Logging:22 - opened the URL
+2018-05-27 16:48:46 INFO selenium.mavenproject.Logging:24 - max
+2018-05-27 16:48:46 INFO selenium.mavenproject.Logging:30 - entered username
+2018-05-27 16:48:46 INFO selenium.mavenproject.Logging:33 - entered password
+2018-05-27 16:48:49 INFO selenium.mavenproject.Logging:36 - clicked on login button
